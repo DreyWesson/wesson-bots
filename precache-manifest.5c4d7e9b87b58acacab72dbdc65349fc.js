@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba3c763b896b4dbf618d16f5e7af1ba8",
+    "revision": "d0986f653c0e113acc08fc2b485b56f2",
     "url": "/wesson-bots/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wesson-bots/static/css/2.3b6f1bda.chunk.css"
   },
   {
-    "revision": "030aef01e7c0d9a578b3",
-    "url": "/wesson-bots/static/css/main.928dc4a8.chunk.css"
+    "revision": "7ef917b698c616a74623",
+    "url": "/wesson-bots/static/css/main.46b14e27.chunk.css"
   },
   {
     "revision": "da0b4762df438db7410f",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wesson-bots/static/js/2.d70a59e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "030aef01e7c0d9a578b3",
+    "revision": "7ef917b698c616a74623",
     "url": "/wesson-bots/static/js/main.d1ca0b59.chunk.js"
   },
   {
