@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/wesson-bots/static/css/main.e54c23a6.chunk.css",
-    "main.js": "/wesson-bots/static/js/main.a26aad34.chunk.js",
-    "main.js.map": "/wesson-bots/static/js/main.a26aad34.chunk.js.map",
+    "main.css": "/wesson-bots/static/css/main.928dc4a8.chunk.css",
+    "main.js": "/wesson-bots/static/js/main.d1ca0b59.chunk.js",
+    "main.js.map": "/wesson-bots/static/js/main.d1ca0b59.chunk.js.map",
     "runtime-main.js": "/wesson-bots/static/js/runtime-main.7b875e67.js",
     "runtime-main.js.map": "/wesson-bots/static/js/runtime-main.7b875e67.js.map",
     "static/css/2.3b6f1bda.chunk.css": "/wesson-bots/static/css/2.3b6f1bda.chunk.css",
     "static/js/2.d70a59e6.chunk.js": "/wesson-bots/static/js/2.d70a59e6.chunk.js",
     "static/js/2.d70a59e6.chunk.js.map": "/wesson-bots/static/js/2.d70a59e6.chunk.js.map",
     "index.html": "/wesson-bots/index.html",
-    "precache-manifest.f84f66ab9e411f9df0fea05c915bd296.js": "/wesson-bots/precache-manifest.f84f66ab9e411f9df0fea05c915bd296.js",
+    "precache-manifest.d2ee1dcc7165a85c0a8988c59403ade4.js": "/wesson-bots/precache-manifest.d2ee1dcc7165a85c0a8988c59403ade4.js",
     "service-worker.js": "/wesson-bots/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/wesson-bots/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.e54c23a6.chunk.css.map": "/wesson-bots/static/css/main.e54c23a6.chunk.css.map",
+    "static/css/main.928dc4a8.chunk.css.map": "/wesson-bots/static/css/main.928dc4a8.chunk.css.map",
     "static/js/2.d70a59e6.chunk.js.LICENSE.txt": "/wesson-bots/static/js/2.d70a59e6.chunk.js.LICENSE.txt",
     "static/media/App.css": "/wesson-bots/static/media/SEGA.12a3db8b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.7b875e67.js",
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.d70a59e6.chunk.js",
-    "static/css/main.e54c23a6.chunk.css",
-    "static/js/main.a26aad34.chunk.js"
+    "static/css/main.928dc4a8.chunk.css",
+    "static/js/main.d1ca0b59.chunk.js"
   ]
 }
