@@ -9,8 +9,9 @@
 
 h1 {
   font-family: "SEGA LOGO FONT";
-  /* color: #0ccac4; */
-  /* color: rgb(80, 35, 126); */
   color: red;
   font-weight: 400;
+}
+img {
+  max-width: 100%;
 }
