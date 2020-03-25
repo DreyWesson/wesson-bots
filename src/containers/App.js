@@ -52,6 +52,10 @@ class App extends Component {
             <CardList robots={filteredRobots} />;
           </ErrorHandler>
         </Scroll>
+        <br />
+        <button className="f6 grow no-underline br-pill ba ph3 pv2 mb2 dib black">
+          Add Robot
+        </button>
       </div>
     );
   }
