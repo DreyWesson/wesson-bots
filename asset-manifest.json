@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wesson-bots/static/css/main.46b14e27.chunk.css",
+    "main.css": "/wesson-bots/static/css/main.a9cb0329.chunk.css",
     "main.js": "/wesson-bots/static/js/main.d1ca0b59.chunk.js",
     "main.js.map": "/wesson-bots/static/js/main.d1ca0b59.chunk.js.map",
     "runtime-main.js": "/wesson-bots/static/js/runtime-main.7b875e67.js",
@@ -9,10 +9,10 @@
     "static/js/2.d70a59e6.chunk.js": "/wesson-bots/static/js/2.d70a59e6.chunk.js",
     "static/js/2.d70a59e6.chunk.js.map": "/wesson-bots/static/js/2.d70a59e6.chunk.js.map",
     "index.html": "/wesson-bots/index.html",
-    "precache-manifest.5c4d7e9b87b58acacab72dbdc65349fc.js": "/wesson-bots/precache-manifest.5c4d7e9b87b58acacab72dbdc65349fc.js",
+    "precache-manifest.615facf6cc9e18187fe38a18b2f64e65.js": "/wesson-bots/precache-manifest.615facf6cc9e18187fe38a18b2f64e65.js",
     "service-worker.js": "/wesson-bots/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/wesson-bots/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.46b14e27.chunk.css.map": "/wesson-bots/static/css/main.46b14e27.chunk.css.map",
+    "static/css/main.a9cb0329.chunk.css.map": "/wesson-bots/static/css/main.a9cb0329.chunk.css.map",
     "static/js/2.d70a59e6.chunk.js.LICENSE.txt": "/wesson-bots/static/js/2.d70a59e6.chunk.js.LICENSE.txt",
     "static/media/App.css": "/wesson-bots/static/media/SEGA.12a3db8b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.7b875e67.js",
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.d70a59e6.chunk.js",
-    "static/css/main.46b14e27.chunk.css",
+    "static/css/main.a9cb0329.chunk.css",
     "static/js/main.d1ca0b59.chunk.js"
   ]
 }

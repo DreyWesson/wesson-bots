@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wesson-bots/precache-manifest.5c4d7e9b87b58acacab72dbdc65349fc.js"
+  "/wesson-bots/precache-manifest.615facf6cc9e18187fe38a18b2f64e65.js"
 );
 
 self.addEventListener('message', (event) => {
