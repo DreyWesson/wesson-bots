@@ -16,3 +16,7 @@ img {
   width: 200px;
   max-width: 100%;
 }
+
+div {
+  max-width: 100%;
+}
