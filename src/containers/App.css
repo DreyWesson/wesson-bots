@@ -16,6 +16,12 @@ img {
   width: 200px;
   max-width: 100%;
 }
+h2 {
+  text-align: center;
+  width: 220px;
+  max-width: 100%;
+  overflow: hidden;
+}
 
 div {
   max-width: 100%;
