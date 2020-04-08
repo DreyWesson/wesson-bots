@@ -7,6 +7,7 @@ const SearchBox = ({ onSearch }) => {
         type="search"
         placeholder="Search robot..."
         className="pa3 ba b--light-silver br3 grow"
+        aria-label="Search button"
         onChange={onSearch}
       />
     </div>
